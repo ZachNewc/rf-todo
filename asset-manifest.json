@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ZachNewc/rf-todo/static/css/main.31d6cfe0.css",
+    "main.js": "/ZachNewc/rf-todo/static/js/main.490838c6.js",
+    "index.html": "/ZachNewc/rf-todo/index.html",
+    "main.490838c6.js.map": "/ZachNewc/rf-todo/static/js/main.490838c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.490838c6.js"
+  ]
+}
