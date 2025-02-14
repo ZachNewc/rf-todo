@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/ZachNewc/rf-todo/static/css/main.31d6cfe0.css",
-    "main.js": "/ZachNewc/rf-todo/static/js/main.490838c6.js",
-    "index.html": "/ZachNewc/rf-todo/index.html",
-    "main.490838c6.js.map": "/ZachNewc/rf-todo/static/js/main.490838c6.js.map"
+    "main.css": "//rf-todo/static/css/main.31d6cfe0.css",
+    "main.js": "//rf-todo/static/js/main.490838c6.js",
+    "index.html": "//rf-todo/index.html",
+    "main.490838c6.js.map": "//rf-todo/static/js/main.490838c6.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
